@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AcademicAce
+- 👀 I’m interested in ... Coding websites using Chatgbt, adding unblocked games for school.
+- 🌱 I’m currently learning ... HTML and CSS
+- 💞️ I’m looking to collaborate on ... Anything thta involves website building.
+- 📫 How to reach me ... Discord
